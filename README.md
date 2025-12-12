@@ -57,7 +57,6 @@ Criação de páginas e protótipos com foco em simplicidade, acessibilidade e r
 
 ## 📫 **Contato**
 
-Disponível para estágios e empregos em áreas em que eu posso me aprimorar e tenha a oportunidade de me desenvolver.
 
 <div align="left">
   <a href="https://www.linkedin.com/in/eduardo-dutra-0015b8357/" target="_blank">
